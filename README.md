@@ -50,6 +50,12 @@ E-Commerce/
 
 ---
 
+## Class Diagram
+
+![The Class Diagram](docs/classDiagram.png)
+
+---
+
 ## Sample
 
 ![Sample Output](docs/screenshot.png)
