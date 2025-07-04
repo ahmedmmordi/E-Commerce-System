@@ -25,10 +25,10 @@ E-Commerce/
 │   │   └── user/
 │   │       └── Customer.java
 │   └── service/
-│       ├── classDiagram.java
+│       ├── CheckoutService.java
 │       └── ShippingService.java
 ├── docs/
-│   ├── screenshot.png
+│   ├── classDiagram.png
 │   └── screenshot.png
 └── README.md
 ```
